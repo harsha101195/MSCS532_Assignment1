@@ -2,6 +2,13 @@
 This is an implementation of the Insertion Sort algorithm
 that sorts in monotonically decreasing order.
 """
+
+"""
+Instructions to run code:
+1. Modify the array argument in the last line of code
+2. Save the file and run the code using python3 <path>/InsertionSort.py
+"""
+
 def insertionSort(arr):
     l = len(arr)
     
